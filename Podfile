@@ -6,7 +6,6 @@ def shared_pods
     pod 'Alamofire'
     pod 'SDWebImage'
     pod 'SnapKit'
-    pod 'IGListKit'
     pod 'FSPagerView'
     pod 'Parchment'
     pod 'Gluten'
@@ -15,8 +14,6 @@ def shared_pods
     pod 'PageControls/PillPageControl'
     pod 'CRRefresh'
     pod 'SkeletonView'
-    pod 'RxSwift'
-    pod 'RxCocoa'
 end
 
 target 'SportsDictionary' do

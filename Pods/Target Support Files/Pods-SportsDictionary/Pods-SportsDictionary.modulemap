@@ -1,0 +1,6 @@
+framework module Pods_SportsDictionary {
+  umbrella header "Pods-SportsDictionary-umbrella.h"
+
+  export *
+  module * { export * }
+}
